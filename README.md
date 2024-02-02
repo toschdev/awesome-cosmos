@@ -13,36 +13,38 @@ Please read the [Contributing guide](./CONTRIBUTING.md). Thank you to all our [c
 
 ## Contents
 
-* [Core Components](#core-components)
-* [Documentation](#documentation)
-* [Client Libraries](#client-libraries)
-    * [Go](#go)
-    * [JavaScript](#javascript)
-    * [Python](#python)
-    * [Rust](#rust)
-* [Block Explorers](#block-explorers)
-    * [Visual Block Explorers](#visual-block-explorers)
-    * [Terminal Block Explorers](#terminal-block-explorers)
-* [Chain Registry](#chain-registry)
-* [Validators](#validators)
-* [Cosmos SDK Modules](#cosmos-sdk-modules)
-* [Monitoring](#monitoring)
-* [Indexers](#indexers)
-* [Frameworks](#frameworks)
-* [Virtual Machines](#virtual-machines)
-* [IBC](#ibc)
-* [Testing](#testing)
-* [Tools](#tools)
-    * [CLI](#cli)
-    * [GUI](#gui)
-    * [Bots](#bots)
-* [Node Operations](#node-operations)
-    * [Utilities](#utilities)
-* [Ecosystem](#ecosystem)
-* [Wallets](#wallets)
-* [Blogs](#blogs)
-    * [Articles](#articles)
-* [Related](#related)
+- [Awesome Cosmos ](#awesome-cosmos-)
+  - [Contents](#contents)
+  - [Core Components](#core-components)
+  - [Documentation](#documentation)
+  - [Client Libraries](#client-libraries)
+    - [Go](#go)
+    - [JavaScript](#javascript)
+    - [Python](#python)
+    - [Rust](#rust)
+  - [Block Explorers](#block-explorers)
+    - [Visual Block Explorers](#visual-block-explorers)
+    - [Terminal Block Explorers](#terminal-block-explorers)
+  - [Chain Registry](#chain-registry)
+  - [Validators](#validators)
+  - [Cosmos SDK Modules](#cosmos-sdk-modules)
+  - [Monitoring](#monitoring)
+  - [Indexers](#indexers)
+  - [Frameworks](#frameworks)
+  - [Virtual Machines](#virtual-machines)
+  - [IBC](#ibc)
+  - [Testing](#testing)
+  - [Tools](#tools)
+    - [CLI](#cli)
+    - [GUI](#gui)
+    - [Bots](#bots)
+  - [Node Operations](#node-operations)
+    - [Utilities](#utilities)
+  - [Ecosystem](#ecosystem)
+  - [Wallets](#wallets)
+  - [Blogs](#blogs)
+    - [Articles](#articles)
+  - [Related](#related)
 
 ## Core Components
 
@@ -181,6 +183,7 @@ To share a module that you want the community to know about and use, add it here
 * [Cosmscan](https://github.com/cosmscan/cosmscan-go) - An indexer engine for Cosmos chains.
 * [interchain-indexer](https://github.com/Reecepbcups/interchain-indexer) - A cosmos blockchain indexer in Python.
 * [Cosmos Indexer](https://github.com/DefiantLabs/cosmos-indexer) - A generalized DB schema indexer with correlation and direct database indexing in Go.
+* [BDJuno](https://github.com/forbole/bdjuno) - All the chains' data that are queried from the RPC and gRPC endpoints are stored inside a PostgreSQL database on top of which GraphQL APIs can then be created using Hasura.
 
 ## Frameworks
 
